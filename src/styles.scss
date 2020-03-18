@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-radio-outer-circle {
+    border-color: rgb(105, 240, 174);
+}
+field-appearance-legacy .mat-form-field-underline {
+    background-color: rgb(25, 118, 210);
+    height: 2px !important;
+}
